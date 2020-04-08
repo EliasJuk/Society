@@ -1,2 +1,3 @@
 # newMensagerApp
-Aplicativo de mensagem
+
+Rede Social
